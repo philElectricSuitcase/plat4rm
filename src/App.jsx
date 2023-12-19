@@ -10,9 +10,7 @@ function App() {
   return (
     <>
       <div>
-        
-        
-          <img src={plat4rm} className='center' />
+          <img src={plat4rm} width="100%" />
        </div>
     </>
   )
